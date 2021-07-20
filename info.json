@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e815626e2ed50c6594a98b680a24c4096e98bd8b",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2021-07-20 10:05:03",
+    "files": 3,
+    "merge": false,
+    "message": "switch off failing windows r-devel check\n"
+  },
+  "remote": "https://github.com/ropensci/osmdata",
+  "pkg": "osmdata"
+}
