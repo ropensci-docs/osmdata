@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a37c15268f764e57d4e0b77ee6da5fe4bc9ec3dd",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2024-02-06 11:29:31",
+    "files": 4,
+    "merge": false,
+    "message": "update actions/checkout -> v4\n"
+  },
+  "repo": "https://github.com/ropensci/osmdata",
+  "pkg": "osmdata"
+}
