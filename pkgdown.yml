@@ -1,0 +1,12 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  osm-sf-translation: osm-sf-translation.html
+  osmdata-sc: osmdata-sc.html
+  osmdata: osmdata.html
+  query-split: query-split.html
+last_built: 2024-10-23T12:24Z
+urls:
+  reference: https://docs.ropensci.org/osmdata/reference
+  article: https://docs.ropensci.org/osmdata/articles

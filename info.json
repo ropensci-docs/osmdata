@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e803d021c9ca37ae1c1410f4e1c48c1d8d3a5698",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2024-10-19 11:21:44",
+    "files": 3,
+    "merge": false,
+    "message": "sort .Rbuildignore [ci skip]\n"
+  },
+  "repo": "https://github.com/ropensci/osmdata",
+  "pkg": "osmdata"
+}
