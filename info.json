@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "93c028179240601de0748b56ab324acb52fe10b9",
+    "author": "Joan Maspons <joanmaspons@gmail.com>",
+    "time": "2026-09-01T11:59:50Z",
+    "files": 1,
+    "merge": false,
+    "message": "Typo\n"
+  },
+  "repo": "https://github.com/ropensci/osmdata",
+  "pkg": "osmdata",
+  "time": "2026-09-01T16:57:27Z"
+}
