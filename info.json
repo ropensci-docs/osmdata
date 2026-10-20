@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "30e5b1c5603d27f723c98abf1b35255ca42df2aa",
+    "author": "Joan Maspons <joanmaspons@gmail.com>",
+    "time": "2026-10-20T10:42:30Z",
+    "files": 3,
+    "merge": true,
+    "message": "Merge pull request #435 from ropensci/osm-user\n\nmake 'osm_user/timestamp' changes conditional to close #434"
+  },
+  "repo": "https://github.com/ropensci/osmdata",
+  "pkg": "osmdata",
+  "time": "2026-10-20T14:04:43Z"
+}
